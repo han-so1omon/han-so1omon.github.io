@@ -1,4 +1,5 @@
 # Get started building your personal website
+Keeping this because I like it
 
 ### Showcase your software development skills
 
